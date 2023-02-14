@@ -1,2 +1,2 @@
-# blogyisus
+# BlogYisus
 Blog Personal Orientado a Nichos
